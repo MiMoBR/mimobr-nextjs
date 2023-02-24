@@ -1,0 +1,16 @@
+self.__RSC_CSS_MANIFEST={
+  "__entry_css_mods__": {
+    "C:\\Users\\reina\\OneDrive\\Documentos\\1_rnco\\mimobr\\clients\\MiMoBR\\WebSite\\mimobr-nextjs\\src\\app\\page": [
+      "C:\\Users\\reina\\OneDrive\\Documentos\\1_rnco\\mimobr\\clients\\MiMoBR\\WebSite\\mimobr-nextjs\\src\\app\\page.module.css",
+      "C:\\Users\\reina\\OneDrive\\Documentos\\1_rnco\\mimobr\\clients\\MiMoBR\\WebSite\\mimobr-nextjs\\node_modules\\@next\\font\\google\\target.css?{\"path\":\"src\\\\app\\\\page.tsx\",\"import\":\"Inter\",\"arguments\":[{\"subsets\":[\"latin\"]}],\"variableName\":\"inter\"}",
+      "C:\\Users\\reina\\OneDrive\\Documentos\\1_rnco\\mimobr\\clients\\MiMoBR\\WebSite\\mimobr-nextjs\\src\\app\\globals.css"
+    ]
+  },
+  "C:\\Users\\reina\\OneDrive\\Documentos\\1_rnco\\mimobr\\clients\\MiMoBR\\WebSite\\mimobr-nextjs\\src\\app\\page.tsx": [
+    "C:\\Users\\reina\\OneDrive\\Documentos\\1_rnco\\mimobr\\clients\\MiMoBR\\WebSite\\mimobr-nextjs\\node_modules\\@next\\font\\google\\target.css?{\"path\":\"src\\\\app\\\\page.tsx\",\"import\":\"Inter\",\"arguments\":[{\"subsets\":[\"latin\"]}],\"variableName\":\"inter\"}",
+    "C:\\Users\\reina\\OneDrive\\Documentos\\1_rnco\\mimobr\\clients\\MiMoBR\\WebSite\\mimobr-nextjs\\src\\app\\page.module.css"
+  ],
+  "C:\\Users\\reina\\OneDrive\\Documentos\\1_rnco\\mimobr\\clients\\MiMoBR\\WebSite\\mimobr-nextjs\\src\\app\\layout.tsx": [
+    "C:\\Users\\reina\\OneDrive\\Documentos\\1_rnco\\mimobr\\clients\\MiMoBR\\WebSite\\mimobr-nextjs\\src\\app\\globals.css"
+  ]
+}
